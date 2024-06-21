@@ -3,9 +3,12 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Saya adalah seorang full stack developer yang bersemanga. Dengan pengalaman membangun aplikasi web untuk Tata Usaha dan Perpustakaan sekolah. Saya telah mengasah kemampuan saya dalam teknologi front-end seperti React dan Next.js, serta teknologi back-end seperti Node.js dan MySQL. Tujuan saya adalah memanfaatkan keahlian saya untuk menciptakan solusi inovatif yang mendorong pertumbuhan bisnis dan memberikan pengalaman pengguna yang luar biasa.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `
+Halo! Saya seorang mahasiswa Teknik Informatika di Universitas Negeri Surabaya (UNESA) yang bersemangat dalam pengembangan web full-stack. Ketertarikan saya pada dunia teknologi dimulai dari rasa ingin tahu yang besar tentang bagaimana membangun sebuah website, dan kini telah berkembang menjadi sebuah hasrat untuk terus belajar dan beradaptasi dengan setiap tantangan baru. Pengalaman saya meliputi pengembangan aplikasi web untuk Tata Usaha dan Perpustakaan sekolah, dengan keahlian dalam teknologi front-end seperti React dan Next.js, serta teknologi back-end seperti Node.js dan MySQL.
+
+Saya percaya bahwa setiap baris kode yang saya tulis memiliki potensi untuk membuat perbedaan. Oleh karena itu, saya selalu berusaha untuk menciptakan solusi yang efisien, inovatif, dan berdampak positif. Selain kemampuan teknis, saya juga memiliki kemampuan komunikasi yang baik, cepat belajar, dan problem solving yang efektif. Saya yakin bahwa kolaborasi dan komunikasi yang terbuka adalah kunci untuk mencapai hasil terbaik.`;
 
 export const EXPERIENCES = [
   {

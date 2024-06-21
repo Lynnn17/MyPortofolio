@@ -1,12 +1,11 @@
-import { useState } from 'react'
-
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
+import Technology from './components/Techonology'
+import Experience from './components/Experience'
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
    <div className='overflow-x-hidden text-neutral-300 antialiased selection:text-cyan-900 selection:bg-cyan-300'>
@@ -18,6 +17,8 @@ function App() {
     <Navbar/>
     <Hero/>
     <About/>
+    <Technology/>
+    <Experience/>
 
     </div>
     
